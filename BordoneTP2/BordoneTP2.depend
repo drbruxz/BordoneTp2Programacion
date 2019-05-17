@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1558101345 source:c:\users\admin\desktop\geroprgrm\bordonetp2\arrayemployees.c
+	<stdlib.h>
+	<strings.h>
+	<conio.h>
+	<ctype.h>
+	"arrayEmployees.h"
+	"inputsBordone.h"
+
+1558120248 c:\users\admin\desktop\geroprgrm\bordonetp2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<conio.h>
+	<ctype.h>
+	"inputsBordone.h"
+
+1557767962 c:\users\admin\desktop\geroprgrm\bordonetp2\inputsbordone.h
+	<stdlib.h>
+	<strings.h>
+	<conio.h>
+
+1557767975 source:c:\users\admin\desktop\geroprgrm\bordonetp2\inputsbordone.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<conio.h>
+	<ctype.h>
+
+1558101241 source:c:\users\admin\desktop\geroprgrm\bordonetp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<conio.h>
+	<ctype.h>
+	"arrayEmployees.h"
+	"inputsBordone.h"
+
